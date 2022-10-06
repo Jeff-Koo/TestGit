@@ -1,0 +1,2 @@
+another file call b.txt
+it is created by b
