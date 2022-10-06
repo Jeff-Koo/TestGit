@@ -1,4 +1,4 @@
-The first line with typo: NdoejS si hte bEsT.
+The first line with typo: Express is the best.
 This line is on the 2nd line originally. 
-There should be 3 lines in this file. 
+The 3rd line is back. 
 The 4th line remains. 
